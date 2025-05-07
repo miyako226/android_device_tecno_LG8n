@@ -31,6 +31,6 @@ module = ExtractUtilsModule(
 
 if __name__ == '__main__':
     utils = ExtractUtils.device_with_common(
-        module, 'mt6789-common', module.vendor
+        module, 'shirayuki-common', module.vendor
     )
     utils.run()

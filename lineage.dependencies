@@ -7,15 +7,15 @@
   },
   {
     "remote"      : "github",
-    "repository"  : "Anything-at-25-00/android_vendor_tecno_mt6789-common",
+    "repository"  : "Anything-at-25-00/android_vendor_tecno_shirayuki-common",
     "branch"      : "fifteen",
-    "target_path" : "vendor/tecno/mt6789-common"
+    "target_path" : "vendor/tecno/shirayuki-common"
   },
   {
     "remote"      : "github",
-    "repository"  : "Anything-at-25-00/android_device_tecno_mt6789-common",
+    "repository"  : "Anything-at-25-00/android_device_tecno_shirayuki-common",
     "branch"      : "fifteen",
-    "target_path" : "device/tecno/mt6789-common"
+    "target_path" : "device/tecno/shirayuki-common"
   },
   {
     "remote"      : "github",
